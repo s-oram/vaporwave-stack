@@ -1,9 +1,12 @@
-# Welcome to Remix!
+# Remix Vaporwave Stack
 
-- [Remix Docs](https://remix.run/docs)
+Use this stack:
+```
+npx create-remix --template s-oram/vaporwave-stack
+```
 
-## Tech stack
-- Remix
+## What's in the stack
+- [Remix](https://remix.run/)
 - Cloudflare pages
 - Tailwind
 - Yarn v3
